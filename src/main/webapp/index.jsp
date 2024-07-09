@@ -16,6 +16,8 @@
 <h2>Hello World!</h2><h3>Welcome to CI CD Pipeline<h3>
 <h3>Working with Git and Github training...</h3>
 <h2>Working with Git SCM in jenkins</h2>
-<h2>This is working fine..</h2>
+<h2>This is working fine..Using Poll SCM from Github Repo Pull.</h2>
+<h2>This is working fine.Using Poll SCM from Github Repo Pull.</h2>
+<h2>This is working fine..Using Poll SCM from Github Repo Pull</h2>
 </body>
 </html>
