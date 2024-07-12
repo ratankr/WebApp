@@ -14,9 +14,9 @@
         Working with Github SCM using Jenkins...
     </font>
 <br>
-<h2>Integration Using...</h2><h3>Jenkins Tomcat Docker Containers Deployments<h3>
+<h2>Integration Using...</h2><h3>Jenkins Tomcat Ansible Deployments<h3>
 <font size="5" face="arial" color="#FF0000">
-        Automated Deployment!!!
+Ansible playbook Automated Deployment!!!
     </font>
 
 <h3>It's Working fine...</h3>
